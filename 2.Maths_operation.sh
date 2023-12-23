@@ -12,4 +12,4 @@ read -p "Enter your 2nd number: " num2
 echo "The addition of the two number is: `expr $num1 + $num2`"
 echo "The subtraction of the two number is: `expr $num1 - $num2`"
 echo "The mulitplication of the two number is: `expr ($num1 \* $num2)`"
-echo "The division of the two number is: `expr $num1/ $num2`"
+echo "The division of the two number is: `expr $num1 / $num2`"
